@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy From [COMPANY-NAME]
 
 [COMPANY-NAME] built the [APP-NAME] app as an Ad Supported app. This SERVICE is provided by [COMPANY-NAME] at no cost and is intended for use as is.
 
